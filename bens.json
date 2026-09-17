@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "item": "chave 11",
+        "local": "oficina",
+        "data": "2026-09-17",
+        "valor": 70,
+        "patrimonio": "PT542"
+
+    },
+    {
+        "id": 2,
+        "item": "m4a1",
+        "local": "casa do buno",
+        "data": "2026-09-17",
+        "valor": 121000,
+        "patrimonio": "PT223"
+
+    },
+    {
+        "id": 1,
+        "item": "isqueiro de uranio",
+        "local": "uraniolandia",
+        "data": "2026-09-17",
+        "valor": 500,
+        "patrimonio": "PT235"
+
+    }
+]
